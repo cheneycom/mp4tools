@@ -15,7 +15,7 @@
     <key>LSMinimumSystemVersion</key>
     <string>14.0</string>
     <key>NSHumanReadableCopyright</key>
-    <string>Copyright © 2026 Cheney. All rights reserved.</string>
+    <string>Copyright © 2026 ChaseCheney LLC. All rights reserved.</string>
 
     <!-- Declare the document types the app can open. -->
     <key>CFBundleDocumentTypes</key>
